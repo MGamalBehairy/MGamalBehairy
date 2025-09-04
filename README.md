@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 🤝 I’m looking for help with **DevOps**
+\/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
